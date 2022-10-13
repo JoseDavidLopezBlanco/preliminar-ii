@@ -5,10 +5,10 @@ main:
     url: /research/ 
     
  #  - title: "Publications"
-    url: /publications/ 
+  #   url: /publications/ 
     
  #  - title: "Teaching"
-    url: /teaching/
+   #  url: /teaching/
     
   - title: "CV"
     url: /cv/    
@@ -17,5 +17,5 @@ main:
  #   url: /year-archive/
     
  #  - title: "Data & Code"
-    url: /datacode/
+   #  url: /datacode/
     
