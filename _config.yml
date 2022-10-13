@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "´José David López Blanco"
+title                    : "José David López Blanco"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "PhD Candidate at University Carlos III (Madrid, Spain)"
