@@ -4,10 +4,10 @@ main:
   - title: "Research"
     url: /research/ 
     
-  - title: "Publications"
+ #  - title: "Publications"
     url: /publications/ 
     
-  - title: "Teaching"
+ #  - title: "Teaching"
     url: /teaching/
     
   - title: "CV"
@@ -16,6 +16,6 @@ main:
  # - title: "Blog Posts"
  #   url: /year-archive/
     
-  - title: "Data & Code"
+ #  - title: "Data & Code"
     url: /datacode/
     
