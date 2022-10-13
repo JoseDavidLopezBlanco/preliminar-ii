@@ -11,18 +11,17 @@ About me
 ======
 
 Hi!
+I am José David López Blanco, a PhD student in Sociology at the University Carlos III (Madrid, Spain), affiliated to the Department of Social Sciences. 
+I have a double degree in Law and Business Administration from the University of Zaragoza and a Research Master in Sociology and Demography from Pompeu Fabra University in Barcelona. As I wrote in endless motivation letters, my educational background has provided me an excellent cross-cutting understanding of the social sciences and analytical tools for analysing economic, social, legal and administrative relations and their intersections in global societies. 
 
-I'm Mar, a quantitative sociologist from Almería (Spain), one of the [sunniest cities](https://weather-and-climate.com/average-monthly-hours-Sunshine,almeria-andalucia-es,Spain) in Europe. I'm a PhD Candidate at the European University Institute (Florence, Italy) and for the Fall semester 2022, also a Visiting Fellow at INVEST Flagship (Turku). 
+However, my academic career was a fortunate accident.
 
-I'm interested in broad topics such as social stratification, with a particular focus on educational and health inequalities. In my research I use quantitative methods and (aim for) causal inference designs. You can learn more about my research [here](https://marespadafor.github.io/research/).
+Research was not my first choice. In fact, it was not even an option. Taking up the double degree in law and business administration was a way for me to secure a professional career in the private sector given the pessimistic outlook during the worst of the Great Recession. Consequently, the gap between what I saw as a forced obligation and mi personal interests deepened until my first Bachelor's thesis. It was the first moment I came into contact with research and it showed me a new way to combine my studies and my passions. Encouraged by the grades of my two bachelor theses and the advice of my supervisors, I decided to enrol in a research master's in sociology and demography. The reason? More than my love for Weber or Merton was the fact that this master one of the few research Master's programmes available at the time of my application.
 
-I also have a keen interest on policy analysis. I'm a Junior Fellow of Future Policy Lab (FPL), a recently-created think tank whose aim is to shape the public debate in Spain on some of the most pressing issues of our time. My research has been featured in [elDiario.es](https://www.eldiario.es/sociedad/abrir-casas-apuestas-cerca-institutos-baja-rendimiento-escolar-barrios-humildes_1_8440297.html), [Cadena SER](https://cadenaser.com/ser/2021/10/31/sociedad/1635675473_674477.html), and [RTVE](https://www.rtve.es/noticias/20211107/casas-apuestas-proximidad-colegios-barrios/2211660.shtml), in Spain.
+So a series of fortunate circumstances brought me to sociology, that strange place where everyone is welcome because nothing human is alien. I guess it was an instant crush. Sociology, or at least the sociology that I loved, is the art of understanding what we aspire to, the structure of (perceived) opportunities and constraints, and the (usually unintended) consequences of our actions. And as is only the case with good lovers, it made me change my trajectory. I became aware of my privileges and disadvantages, my relative position within the social structure and the fact that the engine of change never stands still. But knowledge also has something to do with duty. As a member of a generation that has been told to make crucial decisions in the face of  the bleakest scenario, understanding this process is not just an intellectual desire, but a moral obligation.
 
-If you work on similar topics or are interested in my work, please do get in touch via email (maria.canizares@eui.eu). You can also follow me on twitter ( @marespadafor), where I post about sociology, my travels and whatever is on my mind that day, really.
+However, this is not the only reason to be a researcher. There are many reasons to pursue an academic career, but they all boil down to one: Research is only recommended for researchers. Beyond the tautology, there is a truth behind it: It is a long and hard road, and it is only worth it if it is your passion. Like a shipwrecked poet writing in the sand what will be erased tomorrow, 
+I truly believe that I will always wonder about the world I belong in and try to unravel its social dynamics, to understand who we are and who we can be.
 
-![](http://marespadafor.github.io/images/productive.jpeg)
 
-### What I'm tweeting about
-
-<a class="twitter-timeline" data-tweet-limit="1" data-width="700"  align="center"  href="https://twitter.com/marespadafor?ref_src=twsrc%5Etfw"> </a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
