@@ -13,9 +13,9 @@ main:
   - title: "CV"
     url: /cv/    
         
-        - title: "About me"
-    url: /aboutme/
+    #    - title: "About me"
+ #   url: /aboutme/
     
- #  - title: "Data & Code"
-   #  url: /datacode/
+  - title: "About me"
+     url: /datacode/
     
